@@ -1,25 +1,33 @@
-<div >
-
- 
-
-<p align="center">
- <a href="https://github.com/MateusVasc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- <a href="https://www.linkedin.com/in/mateus-vasconcelos-araujo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
-</p>
- 
-</p>
-<div> 
-
+<div align="center">
+  <a href="https://github.com/MateusVasc" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/mateus-vasconcelos-araujo/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 <h1 align="center">Hey, I'm Mateus</h1>
 <h5 align="center">Software Developer | Data Scientist</h5>
-<h6 align= "center" style="background-color:DodgerBlue;"> I’m a final-year Software Engineering student with over 2 years of hands-on experience in software development. I’m passionate about building intelligent systems and impactful applications, with a strong focus on Machine Learning, Data Science, and Web Development. Throughout my journey, I’ve worked with a wide range of technologies and programming languages, and I’m always eager to learn and take on new challenges. 
 
-</h6>
+<div align="center">
+  <p style="background-color:DodgerBlue; padding: 10px; border-radius: 5px;">
+    I'm a final-year Software Engineering student with over 2 years of hands-on experience in software development. I'm passionate about building intelligent systems and impactful applications, with a strong focus on Machine Learning, Data Science, and Web Development. Throughout my journey, I've worked with a wide range of technologies and programming languages, and I'm always eager to learn and take on new challenges.
+  </p>
+</div>
 
+## 📊 GitHub Stats
 
-# Tech Stack:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusVasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVasc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusVasc&theme=dracula" alt="MateusVasc" />
+</div>
+
+## 🛠️ Tech Stack
 
 ### Languages:
 
@@ -51,3 +59,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusVasc&theme=dracula" alt="Activity Graph" />
+</div> 
