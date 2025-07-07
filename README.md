@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">Hey, I'm Mateus</h1>
-<h5 align="center">Software Developer | Data Scientist</h5>
+<h5 align="center">Software Engineer | Data Scientist</h5>
 
 <div align="center">
   <p style="background-color:DodgerBlue; padding: 10px; border-radius: 5px;">
