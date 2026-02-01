@@ -12,7 +12,7 @@
 
 <div align="center">
   <p style="background-color:DodgerBlue; padding: 10px; border-radius: 5px;">
-    I'm a final-year Software Engineering student with over 2 years of hands-on experience in software development. I'm passionate about building intelligent systems and impactful applications, with a strong focus on Machine Learning, Data Science, and Web Development. Throughout my journey, I've worked with a wide range of technologies and programming languages, and I'm always eager to learn and take on new challenges.
+    I'm a Software Engineer with over 3 years of hands-on experience in software development. I'm passionate about building intelligent systems and impactful applications, with a strong focus on Web Development, Data Science, and Machine Learning. Throughout my journey, I've worked with a wide range of technologies and programming languages, and I'm always eager to learn and take on new challenges.
   </p>
 </div>
 
